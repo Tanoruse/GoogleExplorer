@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">anoruseSamuel_COMP304-005_Question_1</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_church1">ChurchActivity1</string>
+    <string name="title_activity_cinema1">CinemaActivity1</string>
+    <string name="title_activity_musuem1">MusuemActivity1</string>
+    <string name="title_activity_stadium1">StadiumActivity1</string>
+</resources>
